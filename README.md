@@ -7,6 +7,6 @@
 
 # // luv
 
-![Python](https://www.python.org/) ![JavaScript](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) ![C#](https://shields.io)
+![Python](https://vercel.app) ![JavaScript](https://vercel.app) ![C](https://vercel.app) ![C++](https://vercel.app) ![C#](https://vercel.app)
 
-![MySQL](https://shields.io) ![Node.js](https://shields.io) ![Java](https://shields.io) ![Shell Script](https://shields.io) ![.NET](https://shields.io)
+![MySQL](https://vercel.app) ![Node.js](https://vercel.app) ![Java](https://vercel.app) ![Shell Script](https://vercel.app) ![.NET](https://vercel.app)
