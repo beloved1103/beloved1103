@@ -7,6 +7,6 @@
 
 # // luv
 
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![Python](https://shields.io) ![JavaScript](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) ![C#](https://shields.io)
 
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![MySQL](https://shields.io) ![Node.js](https://shields.io) ![Java](https://shields.io) ![Shell Script](https://shields.io) ![.NET](https://shields.io)
